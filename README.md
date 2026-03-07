@@ -1,7 +1,3 @@
 # tfgDaw
----------------
-| *CREADORES* |
----------------
-Jose Nchama Musikuenda
-David Ruanes Fernández
-David Parrado Gómez
+*CREADORES*
+Jose Nchama Musikuenda, David Ruanes Fernández, David Parrado Gómez
